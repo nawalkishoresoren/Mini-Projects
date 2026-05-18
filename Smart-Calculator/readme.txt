@@ -1,5 +1,4 @@
 Build:
-
 add/subtract/multiply/divide
 percentage
 history of calculations

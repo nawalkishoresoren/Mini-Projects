@@ -13,7 +13,7 @@ if __name__ == "__main__":
         method = int(input("Choose you operation = "))
 
         if(method == 5):
-            exit()
+            break
 
         num1 = int(input("Provide first number = "))
         num2 = int(input("Provide second number = "))
