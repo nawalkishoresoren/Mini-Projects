@@ -13,7 +13,7 @@ if __name__ == "__main__":
         method = int(input("Choose you operation = "))
 
         if(method == 5):
-            break
+            exit()
 
         num1 = int(input("Provide first number = "))
         num2 = int(input("Provide second number = "))
@@ -26,7 +26,6 @@ if __name__ == "__main__":
             2 : calculator.substrat,
             3 : calculator.multiply,
             4 : calculator.divide
-
         }
 
         #prints the answer.
